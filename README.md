@@ -5,5 +5,3 @@ Chat application that uses a WebSocket connection
 - Java
 - Spring Boot
 - Lombok
-
-(Under construction)
